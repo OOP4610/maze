@@ -1,0 +1,49 @@
+App proposal
+
+user + app research
+empthy map
+user journey
+
+Needs:
+directly by the user traits note
+contrdictions between two traits
+	e.g. disconnect between what one said and what one did
+Insights
+-distinction that you could everage 
+-come from contradictions
+-asking "why" a person did somthing 
+
+Include  Persona: A user model, some visual representation that user with the data collected 
+-face, name, story, ambition, objectives, desires
+-fiction pattern common to all user
+-at least 1, no more than 3
+
+POV point of View
+-reframing your design challenge into an actionable problem statement that will launch you into ideation
+-a unique, concise retraming of the problem that is grounded in user insights+needs
+Embrace POV
+1.user [we met ....someone]
+2. need [we were suprised to discover...problem]
+3. Insight [It would change the world if....we design something]
+
+
+POV 
+[user] need to [user need] because [suprising insight]
+
+*metaphors可有可无
+
+Userjourney/Journey map
+-How user model/ persona behaves and feels when they have a certain goal in a specific context
+-visual way of comprehending process a persona embarks onfrom the moment need arises to the second the need is satisfied using the app
+
+
+
+
+
+
+
+
+
+
+
+
